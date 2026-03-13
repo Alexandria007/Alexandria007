@@ -11,7 +11,7 @@ I'm exploring the intersection of **decentralized infrastructure** and real-worl
 - Experimenting with **Shelby Protocol** decentralized object storage by Aptos Labs × Jump Crypto
 - Learning to build on **Aptos blockchain** ecosystem
 - Exploring how **AI + decentralized storage** can power the next wave of dApps
-
+- **Live Demo**: [karyachain-g1nt.vercel.app](https://karyachain-g1nt.vercel.app)
 ---
 
 ## 🌱 Currently Learning
