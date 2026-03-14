@@ -6,7 +6,7 @@ I'm exploring the intersection of **decentralized infrastructure** and real-worl
 
 ---
 
-## 🔭 What I'm Building
+## What I'm Building
 
 - Experimenting with **Shelby Protocol** decentralized object storage by Aptos Labs × Jump Crypto
 - Learning to build on **Aptos blockchain** ecosystem
@@ -14,7 +14,7 @@ I'm exploring the intersection of **decentralized infrastructure** and real-worl
 - **Live Demo**: [karyachain-g1nt.vercel.app](https://karyachain-g1nt.vercel.app)
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - JavaScript & TypeScript fundamentals
 - Node.js for backend development
@@ -23,7 +23,7 @@ I'm exploring the intersection of **decentralized infrastructure** and real-worl
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -33,17 +33,17 @@ I'm exploring the intersection of **decentralized infrastructure** and real-worl
 
 ---
 
-## 📌 Focus Areas
+## Focus Areas
 
 | Area | Description |
 |------|-------------|
-| 🗄️ Decentralized Storage | Building on Shelby Protocol for verifiable, AI-ready data infrastructure |
-| 🤖 AI × Web3 | Exploring how AI workloads benefit from decentralized hot storage |
-| ⛓️ Aptos Ecosystem | Smart contracts, Move language, and dApp development |
+| Decentralized Storage | Building on Shelby Protocol for verifiable, AI-ready data infrastructure |
+| AI × Web3 | Exploring how AI workloads benefit from decentralized hot storage |
+| Aptos Ecosystem | Smart contracts, Move language, and dApp development |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Alexandria007's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandria007&show_icons=true&theme=tokyonight&hide_border=true)
 
